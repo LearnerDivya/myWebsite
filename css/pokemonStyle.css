@@ -1,0 +1,119 @@
+body{
+    padding: 20px;
+    color: darkolivegreen;
+    background-color: black;
+/*    font-family: 'Playball', cursive;*/
+    font-family: 'Playball', cursive;
+    font-weight: 500;
+}
+
+.navbar-wrapper{
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 20;
+    font-family: 'Black And White Picture', sans-serif;
+
+    
+}
+
+.navbar-wrapper > .container{
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.navbar-wrapper .navbar{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.navbar-wrapper .navbar .container{
+    width: auto;
+    opacity: 50%;
+}
+
+a .pikachu{
+    margin-top: -8px;
+}
+
+.carousel{
+    height: 500px;
+    margin-bottom: 50px;
+    
+}
+
+.carousel .item{
+    height: 500px;
+    
+}
+
+
+.carousel-inner > .item > img{
+    position: absolute;
+    height: 500px;
+    min-width: 100%;
+    top: 0;
+    left: 0;
+}
+
+
+.team .col-lg-4{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.team h2{
+    
+    color: #dd4814;
+}
+
+.team p{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+.divider{
+    margin: 40px 0;
+}
+
+.mickey{
+    padding-left: 50px;
+    padding-top: 80px;
+    text-align: center;
+}
+
+.content{
+    margin-bottom: 37px;
+}
+
+footer{
+    margin: 0 110px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
